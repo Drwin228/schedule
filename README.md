@@ -18,15 +18,13 @@ The *cat's meow*.
 3 The _cat's meow_.
 4
 5 A*cat*meow
-1 ***Important*** text.
-2
-3 ___Important___ text.
-4
-5 __*Important*__ text.
+ ***Important*** text.
+ ___Important___ text.
+ __*Important*__ text.
 6
 7 **_Important_** text.
-1 > ##### The quarterly results look great!
-2 >
+> ##### The quarterly results look great!
+
 3 > - Revenue was off the chart.
 4 > - Profits were higher than ever.
 5 >
@@ -35,9 +33,9 @@ The *cat's meow*.
 2 2. Second item
 3 3. Third item
 4 4. Fourth item
-5
-6 1. First item
-7 1. Second item
+
+ 1. First item
+ 1. Second item
 8 1. Third item
 9 1. Fourth item
 10
